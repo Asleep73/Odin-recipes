@@ -1,0 +1,2 @@
+# Odin-recipes
+By the end of the project I will; have succesfully created a page showing multiple recipes and I will have used the Boiler Plate, list commands and link commands as well as writing effective commits.
